@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1665364031071,
+  "timestamp": 1665445564525,
   "index": "/Curriculum2.0/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/Curriculum2.0/favicon.ico",
         "/Curriculum2.0/index.html",
-        "/Curriculum2.0/main.a65248ae046350d2.js",
+        "/Curriculum2.0/main.0068058ec5f715b7.js",
         "/Curriculum2.0/manifest.webmanifest",
         "/Curriculum2.0/polyfills.c20cc29396513128.js",
         "/Curriculum2.0/runtime.fd4f9abac65672a6.js",
@@ -69,8 +69,8 @@
     "/Curriculum2.0/assets/icons/icon-96x96.png": "ac79d1ea87cdd17bc659f1bf8088e1ef4259c57b",
     "/Curriculum2.0/assets/images/Foto_Perfil.jpeg": "973be545940987577c8cc0db8057b8f78732008b",
     "/Curriculum2.0/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/Curriculum2.0/index.html": "2b1480d04ea09e8e7aa2d9d1e55d669ec73e2f3a",
-    "/Curriculum2.0/main.a65248ae046350d2.js": "28f2d2bfcf3eb5ff05d24aae5f702fa7939acbe5",
+    "/Curriculum2.0/index.html": "b112bea98116185547fc3a7b2801db9c90116f83",
+    "/Curriculum2.0/main.0068058ec5f715b7.js": "72980d1eb40aa25a2fc62e5fb4ae2132f260fcd6",
     "/Curriculum2.0/manifest.webmanifest": "07612d999c44a1b4f108bdc54cb3069606e84bb1",
     "/Curriculum2.0/polyfills.c20cc29396513128.js": "3150e00b686808b727d376fe8735d547cea3f614",
     "/Curriculum2.0/runtime.fd4f9abac65672a6.js": "d9b86eec371df2afecbf03f68a01b9d52f65e735",

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1665445972093,
+  "timestamp": 1665446177369,
   "index": "https://dmogrsap.github.io/Curriculum2.0/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://dmogrsap.github.io/Curriculum2.0/favicon.ico",
         "https://dmogrsap.github.io/Curriculum2.0/index.html",
-        "https://dmogrsap.github.io/Curriculum2.0/main.0068058ec5f715b7.js",
+        "https://dmogrsap.github.io/Curriculum2.0/main.6f1197931a963123.js",
         "https://dmogrsap.github.io/Curriculum2.0/manifest.webmanifest",
         "https://dmogrsap.github.io/Curriculum2.0/polyfills.c20cc29396513128.js",
         "https://dmogrsap.github.io/Curriculum2.0/runtime.fd4f9abac65672a6.js",
@@ -69,8 +69,8 @@
     "https://dmogrsap.github.io/Curriculum2.0/assets/icons/icon-96x96.png": "ac79d1ea87cdd17bc659f1bf8088e1ef4259c57b",
     "https://dmogrsap.github.io/Curriculum2.0/assets/images/Foto_Perfil.jpeg": "973be545940987577c8cc0db8057b8f78732008b",
     "https://dmogrsap.github.io/Curriculum2.0/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://dmogrsap.github.io/Curriculum2.0/index.html": "d3c88cf5e8a470667fa374a8a3931b1db76c4d70",
-    "https://dmogrsap.github.io/Curriculum2.0/main.0068058ec5f715b7.js": "72980d1eb40aa25a2fc62e5fb4ae2132f260fcd6",
+    "https://dmogrsap.github.io/Curriculum2.0/index.html": "88fc856c01fc0cee285d700b2f45f2295f547f5f",
+    "https://dmogrsap.github.io/Curriculum2.0/main.6f1197931a963123.js": "fa0ba081f6296b5133688c8db9db09b82a95dc14",
     "https://dmogrsap.github.io/Curriculum2.0/manifest.webmanifest": "07612d999c44a1b4f108bdc54cb3069606e84bb1",
     "https://dmogrsap.github.io/Curriculum2.0/polyfills.c20cc29396513128.js": "3150e00b686808b727d376fe8735d547cea3f614",
     "https://dmogrsap.github.io/Curriculum2.0/runtime.fd4f9abac65672a6.js": "d9b86eec371df2afecbf03f68a01b9d52f65e735",

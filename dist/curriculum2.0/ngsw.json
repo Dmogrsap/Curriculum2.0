@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1721266660188,
+  "timestamp": 1721267449913,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.e7ebba2445554cec.js",
+        "/main.235638ef1d0f77fa.js",
         "/manifest.webmanifest",
-        "/polyfills.c20cc29396513128.js",
-        "/runtime.fd4f9abac65672a6.js",
+        "/polyfills.adf7b56fdd84c1bd.js",
+        "/runtime.3fa7e3c04ce9900e.js",
         "/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
@@ -73,11 +73,11 @@
     "/assets/pdf/Curriculum vitae actualizado 2024.docx": "0f37a898ff4dc77edccb3fb541696d97fb0fa7e5",
     "/assets/pdf/Curriculum vitae actualizado 2024.pdf": "73efe162321ec8a04b88be93d1350a66a7fc3221",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "ba831335ab8acf7f2cd467ad3e6f8b218419e289",
-    "/main.e7ebba2445554cec.js": "943c22659116f69ab1d2e44532c9d78ad082685d",
+    "/index.html": "99456752a757986098471499c37e02a74dbc0ab0",
+    "/main.235638ef1d0f77fa.js": "b3a2de996e6fcc7f99ad8b4c35a1e1c569ebb666",
     "/manifest.webmanifest": "07612d999c44a1b4f108bdc54cb3069606e84bb1",
-    "/polyfills.c20cc29396513128.js": "3150e00b686808b727d376fe8735d547cea3f614",
-    "/runtime.fd4f9abac65672a6.js": "d9b86eec371df2afecbf03f68a01b9d52f65e735",
+    "/polyfills.adf7b56fdd84c1bd.js": "e3d7a6a33a2cb4eebb08cc2e3aba6ee93575d53f",
+    "/runtime.3fa7e3c04ce9900e.js": "cccb3ac9998eff43b82add1f96fcc0419a950faa",
     "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
